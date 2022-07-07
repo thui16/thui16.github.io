@@ -1,8 +1,9 @@
 ## Welcome 
 
-You can use the [editor on GitHub](https://github.com/thui16/tiffanihui.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Tiffani Hui and I am a third-year PhD student in the Tufts Chemistry Department! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research interests
+
 
 ### Markdown
 
