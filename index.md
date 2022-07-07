@@ -5,7 +5,6 @@ Hello! My name is Tiffani Hui and I am a third-year PhD student in the Tufts Che
 ### Research interests
 
 ```markdown
-Syntax highlighted code block
 
 - Machine learning
 - Computational Chemistry
