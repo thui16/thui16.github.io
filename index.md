@@ -2,25 +2,14 @@
 
 Hello! My name is Tiffani Hui and I am a third-year PhD student in the Tufts Chemistry Department! 
 
-## Research interests
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research interests
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Machine learning
+- Computational Chemistry
+- Rational drug design, structure-based design
 
 **Bold** and _Italic_ and `Code` text
 
